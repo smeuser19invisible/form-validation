@@ -1,0 +1,12 @@
+{
+  "name": "form-validation-project",
+  "version": "1.0.0",
+  "description": "Simple form validation project",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "keywords": ["form", "validation", "javascript"],
+  "author": "Your Name",
+  "license": "MIT"
+}
